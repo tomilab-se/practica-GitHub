@@ -6,3 +6,4 @@ Nombre:Tommy Steven Hernandez
 Carrera:Ingeneria en sistemas
 Año: 1 año sabatino
 sede:Unan Leon
+Mejora Realizada para la practica de laboratorio
